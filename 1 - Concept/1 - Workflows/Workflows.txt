@@ -1,0 +1,5 @@
+Workflow finden für: 
+- Umgucken in 3d Raum (ggf mit Kameraschwenk – Zoom) 
+- Zentrieren der Kamera auf ein Objekt (typsiches The Room lvl) 
+- Anklickbare Objekte/Stellen im Raum
+- Concept Art -> 3d Asset

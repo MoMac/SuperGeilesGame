@@ -1,0 +1,27 @@
+Allgemein
+- Artwork/Assets so readable/deutlich wie möglich für 3d/Textur
+- über konkrete Funktion kann später entschieden werden
+- Studien zur Stilfindung
+
+Setting
+- dunkel, düster, mysteriös, monochrom?
+- atmosphärisch
+
+Mögliche Schauplätze (jeweils mit interior design)
+- Burgen/Schlösser
+- Kathedralen/Kirchen/Tempel
+- Höhlen/Minen
+- Wald(-rand?)
+- Haus (Stadt-/Land-)
+- Tavernen/Gasthäuser
+- Stadt/-teile
+
+Mögliche Assets
+- Symbole
+- Artefakte
+- Werkzeuge
+- (Dampf-)Maschinen
+
+Nicht wichtig
+- Kreaturen
+- Charaktere
